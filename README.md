@@ -43,3 +43,7 @@ Go in pycharm to settings >> proyects >> proyect interpreter >> settings >> ok
 
 This is for the setting that we need from the enviromen just with the package that we need, those are in
  the requirement.txt file
+ 
+ Then we have to do ....
+ 
+ 
