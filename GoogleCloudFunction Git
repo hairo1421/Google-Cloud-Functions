@@ -1,0 +1,25 @@
+Ubuntu Repository Create in Pycharm
+
+1) generate a README.md
+2) Generate a .gitignore  file
+3) add the .idea/
+
+4) crteate repository in github
+5) git remote add origin https://github.com/hairo1421/repositoryname.git
+
+6) Change branches:
+
+git branch -> check the branch in repositoru
+git checout -> change of branch
+
+git branch develop
+git branch
+git checkout develop
+git checkout master -> if you want to delate a branch is form master
+git checkout -D develop -> delate branc
+
+git branch -b develop -> create and change in the same time
+
+Note: if you work in develop branch and wnat make push you have to do the follow:
+
+git push --set--upstream origin develop
