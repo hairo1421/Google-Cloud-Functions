@@ -5,7 +5,13 @@ Ubuntu Repository Create in Pycharm
 3) add the .idea/
 
 4) crteate repository in github
+4.1) git init
 5) git remote add origin https://github.com/hairo1421/repositoryname.git
+6.1) The first time do:  git config --global user.email 'hairo1421@gmail.com'
+6.2) git config --global yser .name 'Hairo'
+6.3) git add .
+6.4) make a commit
+6.5) git push -u origin master
 
 6) Change branches:
 
